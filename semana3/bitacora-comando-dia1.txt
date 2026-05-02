@@ -4,7 +4,7 @@ Nombre del estudiante: Karen Aponza
 
 Fecha: (02 de mayo del 2026)
 
-Nombre de la rama: karen_aponza
+Nombre de la rama: karen_aponza_1
 
 Comando nuevo del día:
 
