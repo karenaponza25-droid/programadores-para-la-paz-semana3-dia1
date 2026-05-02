@@ -8,5 +8,5 @@ console.log("¿La información fue verificada?", informacionVerificada)
 if (informacionVerificada === true) {
   console.log("La información puede compartirse con responsabilidad.")
 } else {
-  console.log("La información no debe compartirse todavía.")
+  console.log("La información no debe compartirse.")
 }
